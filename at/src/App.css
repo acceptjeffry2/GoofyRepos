@@ -1,0 +1,49 @@
+body {
+  background-color: #323437;
+  background-image: url("https://t4.ftcdn.net/jpg/03/59/55/79/360_F_359557922_GPydLSSfjdlK4oEGn1ScOsMLFoEDecTl.jpg");
+  background-size: 100%;
+}
+
+.imgLogo {
+  width: 20vw;
+  height: 100px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.col {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+  
+h3 {
+  color: white;
+}
+
+.bttn {
+  width: 25px;
+  height: 25px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.comic-neue-regular {
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+  
+}
+
+.bttnBox {
+  height: 50vw;
+  width: 50vw;;
+}
